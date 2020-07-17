@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning PHP/Pytohn/Swift
+- 🤔 I’m looking for help with Golang/k8s/Objective-c/flutter/vue.js
+
 <!--
 **aeieli/aeieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
