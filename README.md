@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Swift
-- 🤔 I’m looking for help with Golang/k8s/Objective-c/flutter/vue.js/PHP/Pytohn/
+- 🌱 Happy programming, Programming makes me happy!
+- 🤔 I’m golang backend engineer.
 
 <!--
 **aeieli/aeieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
